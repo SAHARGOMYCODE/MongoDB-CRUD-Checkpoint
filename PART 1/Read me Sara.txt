@@ -1,7 +1,0 @@
-
-
-Hello sara j'avais un prob dans mon ordinateur j'ai crée la BD
-avec use contact puis la collection
-
-puis j'ai relancé le cmd c'est pour cela j'ai mis show DB 
-et show collection
